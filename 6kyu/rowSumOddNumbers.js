@@ -1,5 +1,3 @@
 function rowSumOddNumbers(n) {
-  return n * n * n
+  return n ** 3
 }
-
-console.log(rowSumOddNumbers(1))
